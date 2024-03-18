@@ -1,0 +1,7 @@
+C:\Users\a\source\c#\Swichmoon\Swichmoon\bin\Debug\Swichmoon.exe.config
+C:\Users\a\source\c#\Swichmoon\Swichmoon\bin\Debug\Swichmoon.exe
+C:\Users\a\source\c#\Swichmoon\Swichmoon\bin\Debug\Swichmoon.pdb
+C:\Users\a\source\c#\Swichmoon\Swichmoon\obj\Debug\Swichmoon.csproj.AssemblyReference.cache
+C:\Users\a\source\c#\Swichmoon\Swichmoon\obj\Debug\Swichmoon.csproj.CoreCompileInputs.cache
+C:\Users\a\source\c#\Swichmoon\Swichmoon\obj\Debug\Swichmoon.exe
+C:\Users\a\source\c#\Swichmoon\Swichmoon\obj\Debug\Swichmoon.pdb

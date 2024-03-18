@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swichmoon", "Swichmoon\Swichmoon.csproj", "{F7F2416D-879C-4EF5-ADEB-937055D0E5ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enumPractice", "enumPractice\enumPractice.csproj", "{2B197DFD-4458-4C36-A43F-89680CAAAB92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F2416D-879C-4EF5-ADEB-937055D0E5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F2416D-879C-4EF5-ADEB-937055D0E5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F2416D-879C-4EF5-ADEB-937055D0E5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F2416D-879C-4EF5-ADEB-937055D0E5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B197DFD-4458-4C36-A43F-89680CAAAB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B197DFD-4458-4C36-A43F-89680CAAAB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B197DFD-4458-4C36-A43F-89680CAAAB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B197DFD-4458-4C36-A43F-89680CAAAB92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58E867FD-FF35-4FB9-8E89-9D02428E0727}
+	EndGlobalSection
+EndGlobal
